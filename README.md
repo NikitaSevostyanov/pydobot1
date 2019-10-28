@@ -32,3 +32,8 @@ Python library for Dobot Magician
 22. git push origin master
 23. git checkout master
 >>>>>>> other
+24. git merge examples
+25. git merge other
+26. git merge pydobot
+27. git merge circleci 
+28. An there was some conflicts, whick I solved
